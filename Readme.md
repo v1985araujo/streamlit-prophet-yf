@@ -7,3 +7,4 @@
 ## Analise preditiva com o Prophet:
 - Meses de previsão: Quanto tempo no futuro o prophet precisa calcular?
 - Após essas questões serem resolvidas, são plotados gráficos com os resultados
+- https://app-prophet-yf.streamlit.app/
